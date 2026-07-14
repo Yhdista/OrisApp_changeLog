@@ -1,0 +1,13 @@
+[
+  {
+    "version": "3.2.4",
+    "versionCode": 241028,
+    "date": "8. 7. 2026",
+    "items": [
+      { "text": "✨ Kompaktní zobrazení přihlášek, startovky a výsledků — nový přepínač v toolbaru, vejde se víc dat na obrazovku." },
+      { "text": "✨ Přihlášky v kompaktním zobrazení jdou ve 2 sloupcích vedle sebe a řadí se abecedně." },
+      { "text": "🤖 ORISapp se od teď vyvíjí rychleji s pomocí AI — víc o tom na úvodní stránce průvodce po otevření appky." },
+      { "text": "🔧 Průvodce „Co je nového?\" zkrácen z 11 na 2 stránky." }
+    ]
+  }
+]
