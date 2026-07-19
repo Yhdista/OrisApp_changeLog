@@ -1,5 +1,17 @@
 [
   {
+    "version": "4.0.0",
+    "versionCode": 260719,
+    "date": "19. 7. 2026",
+    "items": [
+      { "text": "🔧 Velký úklid pod kapotou — appka je stabilnější a rychlejší." },
+      { "text": "🐛 Oprava fyzického tlačítka Zpět na detailu závodu." },
+      { "text": "🐛 Oprava vynuceného obnovení na detailu, které mazalo víc, než mělo." },
+      { "text": "🐛 Oprava odznaku aktivního filtru na plovoucím tlačítku." },
+      { "text": "✨ Sjednocené žádosti o povolení notifikací napříč appkou." }
+    ]
+  },
+  {
     "version": "3.2.4",
     "versionCode": 241028,
     "date": "8. 7. 2026",
