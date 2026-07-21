@@ -4,12 +4,12 @@
     "versionCode": 260720,
     "date": "20. 7. 2026",
     "items": [
-      { "text": "🔧 Kompletní refaktoring appky pod kapotou — nová moderní architektura (Kotlin Multiplatform, Room, Ktor, Compose)." },
-      { "text": "🗑️ Zahozena stará vnitřní databáze — appka teď běží čistě na Room, data se po aktualizaci znovu stáhnou z ORISu." },
-      { "text": "✨ Vylepšení řady starších funkcí napříč appkou." },
+      { "text": "🔧 Kompletní refaktoring applikace pod kapotou — nová moderní architektura." },
+      { "text": "🗑️ Zahozena stará vnitřní databáze." },
+      { "text": "✨ Vylepšení řady starších funkcí napříč applikací." },
       { "text": "🔔 Nové připomínky blížících se termínů přihlášek u sledovaných závodů." },
       { "text": "🧪 Sledování aktuálně probíhající události s notifikacemi — zatím v testovacím režimu." },
-      { "text": "✨ Dva různé grafické pohledy na výsledky, přihlášky a startovku — vyber si ten, který ti sedí víc." },
+      { "text": "✨ Dva různé grafické pohledy na výsledky, přihlášky a startovku.," },
       { "text": "✨ Nová obrazovka Mezivýsledky, s možností volby z 5 velikostí textu." }
     ]
   }
