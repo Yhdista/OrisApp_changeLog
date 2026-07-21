@@ -4,22 +4,13 @@
     "versionCode": 260720,
     "date": "20. 7. 2026",
     "items": [
-      { "text": "🔧 Velký úklid pod kapotou — appka je stabilnější a rychlejší." },
-      { "text": "🐛 Oprava fyzického tlačítka Zpět na detailu závodu." },
-      { "text": "🐛 Oprava vynuceného obnovení na detailu, které mazalo víc, než mělo." },
-      { "text": "🐛 Oprava odznaku aktivního filtru na plovoucím tlačítku." },
-      { "text": "✨ Sjednocené žádosti o povolení notifikací napříč appkou." }
-    ]
-  },
-  {
-    "version": "3.2.4",
-    "versionCode": 241028,
-    "date": "8. 7. 2026",
-    "items": [
-      { "text": "✨ Kompaktní zobrazení přihlášek, startovky a výsledků — nový přepínač v toolbaru, vejde se víc dat na obrazovku." },
-      { "text": "✨ Přihlášky v kompaktním zobrazení jdou ve 2 sloupcích vedle sebe a řadí se abecedně." },
-      { "text": "🤖 ORISapp se od teď vyvíjí rychleji s pomocí AI — víc o tom na úvodní stránce průvodce po otevření appky." },
-      { "text": "🔧 Průvodce „Co je nového?\" zkrácen z 11 na 2 stránky." }
+      { "text": "🔧 Kompletní refaktoring appky pod kapotou — nová moderní architektura (Kotlin Multiplatform, Room, Ktor, Compose)." },
+      { "text": "🗑️ Zahozena stará vnitřní databáze — appka teď běží čistě na Room, data se po aktualizaci znovu stáhnou z ORISu." },
+      { "text": "✨ Vylepšení řady starších funkcí napříč appkou." },
+      { "text": "🔔 Nové připomínky blížících se termínů přihlášek u sledovaných závodů." },
+      { "text": "🧪 Sledování aktuálně probíhající události s notifikacemi — zatím v testovacím režimu." },
+      { "text": "✨ Dva různé grafické pohledy na výsledky, přihlášky a startovku — vyber si ten, který ti sedí víc." },
+      { "text": "✨ Nová obrazovka Mezivýsledky, s možností volby z 5 velikostí textu." }
     ]
   }
 ]
