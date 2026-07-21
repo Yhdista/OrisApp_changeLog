@@ -4,7 +4,7 @@
     "versionCode": 260720,
     "date": "20. 7. 2026",
     "items": [
-      { "text": "🔧 Kompletní refaktoring applikace pod kapotou — nová moderní architektura." },
+      { "text": "🔧 Kompletní refaktoring applikace — nová moderní architektura." },
       { "text": "🗑️ Zahozena stará vnitřní databáze." },
       { "text": "✨ Vylepšení řady starších funkcí napříč applikací." },
       { "text": "🔔 Nové připomínky blížících se termínů přihlášek u sledovaných závodů." },
