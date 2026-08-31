@@ -7,9 +7,11 @@
       { "text": "🗺️ Nová obrazovka Mapa závodů — závody na mapě s filtry a otevřením detailu ze špendlíku." },
       { "text": "✨ Výsledky, startovka a přihlášky: nový filtr „Moje kluby“, seskupení po kategoriích nebo klubech a přepínač řazení 123/ABC." },
       { "text": "📅 Kalendář: volitelné řazení seznamu závodů a přehlednější informační pruh nad seznamem." },
+      { "text": "🚀 Svižnější start — aplikace už při spuštění neprobliká přes úvodní načítací obrazovku." },
+      { "text": "✅ Záložka „Moje“ funguje i mimo sezónu — čára dneška a hláška místo prázdné obrazovky." },
       { "text": "🌙 Vyladěný tmavý režim — lepší kontrast na řadě obrazovek." },
       { "text": "🔔 Konec falešných notifikací po startu aplikace a spolehlivější synchronizace na pozadí." },
-      { "text": "🐞 Řada oprav: přihlašování, formulář přihlášky, novinky a několik pádů aplikace." }
+      { "text": "🐞 Řada oprav: přihlašování, formulář přihlášky, novinky, sledování probíhajícího závodu a několik pádů aplikace." }
     ]
   },
   {
