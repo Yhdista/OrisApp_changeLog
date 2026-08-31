@@ -1,5 +1,13 @@
 [
   {
+    "version": "4.1.1",
+    "versionCode": 260831,
+    "date": "31. 8. 2026",
+    "items": [
+      { "text": "🐞 Oprava pádu při spuštění aplikace na některých zařízeních." }
+    ]
+  },
+  {
     "version": "4.1.0",
     "versionCode": 260830,
     "date": "30. 8. 2026",
