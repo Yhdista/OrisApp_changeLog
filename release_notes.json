@@ -1,5 +1,28 @@
 [
   {
+    "version": "4.2.0",
+    "versionCode": 260911,
+    "date": "11. 9. 2026",
+    "items": [
+      { "text": "👀 Sledované skupiny — sledované závodníky a kluby si nově sdružíš do pojmenovaných skupin (třeba „Rodina“, „Oddíl“) a každou zapneš nebo vypneš zvlášť. Dosavadní seznam sledovaných reg. čísel se převede sám." },
+      { "text": "✨ Přihlášky, startovky a výsledky: lišta filtrů jako ikony, chip „Sledovaní“ otevírá editor skupin a „Moje kluby“ platí napříč závody." },
+      { "text": "⚙️ Nastavení: přepracovaná sekce „Sledovaní závodníci a kluby“ — dlaždice skupin s přepínači, editor Mých klubů a živý souhrn toho, co se sleduje." },
+      { "text": "🔗 Detail závodu: odkaz na stránku závodu v ORIS; podržením odkaz zkopíruješ." },
+      { "text": "🏷️ Názvy a zkratky disciplín podle aktuálního ORISu." },
+      { "text": "🐞 Oprava zamrznutí detailu závodu (nekonečné načítání) a zaseknutého přepínače řazení 123/ABC." },
+      { "text": "🐞 Oprava pádu při otevírání některých odkazů z ORIS a drobné vizuální opravy (ikony stavové lišty, zarovnání v Nastavení)." }
+    ]
+  },
+  {
+    "version": "4.1.2",
+    "versionCode": 260908,
+    "date": "9. 9. 2026",
+    "items": [
+      { "text": "🖱️ Úvodního průvodce projdeš i myší nebo trackpadem — tlačítka Zpět a Další; závěrečné Pokračovat je dostupné i v malém okně." },
+      { "text": "🗑️ Menu: „Smazat účet…“ — odkaz na správu účtu na webu IS ORIS a smazání lokálních dat aplikace." }
+    ]
+  },
+  {
     "version": "4.1.1",
     "versionCode": 260831,
     "date": "31. 8. 2026",
