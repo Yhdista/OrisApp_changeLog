@@ -1,5 +1,15 @@
 [
   {
+    "version": "4.2.1",
+    "versionCode": 260912,
+    "date": "12. 9. 2026",
+    "items": [
+      { "text": "👀 Celé kategorie — kategorii, ve které běží někdo sledovaný podle reg. čísla, ukáže celou i s ostatními závodníky (přepínač v Nastavení a v dialogu skupin, jen v zobrazení podle kategorií)." },
+      { "text": "⚙️ Nastavení: sekce přejmenovaná na „Sledované skupiny a kluby“, srozumitelnější popisy dlaždic a sepsaná pravidla filtru." },
+      { "text": "🐞 Oprava: přehled novinek verze se po aktualizaci aplikace zobrazí hned, ne až druhý den." }
+    ]
+  },
+  {
     "version": "4.2.0",
     "versionCode": 260911,
     "date": "11. 9. 2026",
